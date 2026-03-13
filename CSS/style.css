@@ -100,7 +100,6 @@ button:hover {
 .gradient-text {
   font-size: 40px;
   background: linear-gradient(red, orange);
-  -webkit-background-clip: text;
   color: transparent;
 }
 
